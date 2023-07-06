@@ -7,6 +7,6 @@
 
 --->
 
-Java: intermediate
-JavaScript: basic
+Java: intermediate <br \>
+JavaScript: basic 
 C#: basic
