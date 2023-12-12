@@ -1,7 +1,9 @@
 # AndrieleLange
-- 👋 Hi, I’m Andriele Lange. I'm a Computer Science student at PUCRS.
+- 👋 I'm a Computer Science student.
 - 🌱 I’m currently learning Java, C# and Kotlin
 
+## About me 
+Hi, I´m Andriele Lange and this is my "About me". I'm a Computer Science student at PUCRS. I've liked technology since I was a child, I liked the solutions created to solve daily problems and how technology could be inserted into several other areas. I am currently interested in software development and back-end.
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
