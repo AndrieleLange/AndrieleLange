@@ -19,8 +19,8 @@ Kotlin: beginner   <br />
 --->
 
 ## Skills
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=java,cs&theme=light)](https://skillicons.dev)
+### Languages and technologies
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet&theme=light)](https://skillicons.dev)
 
 ### Tools & Plataforms
 [![My Skills](https://skillicons.dev/icons?i=unity,vscode,visualstudio,figma&theme=light)](https://skillicons.dev)
