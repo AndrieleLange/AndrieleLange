@@ -4,7 +4,7 @@ Hi, I´m Andriele Lange and this is my "About me". I'm a Computer Science studen
 
 - 📚 5th semester Computer Science student at PUCRS (2024/2)
 - 🔍 Scientific researcher for PET-Inf
-- 👩🏻‍💻 Back-end development intern at CREATUS
+<!--- - 👩🏻‍💻 Back-end development intern at CREATUS --->
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
